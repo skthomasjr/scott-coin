@@ -1,5 +1,5 @@
 ### Scott Coin (SKT) - Demo Ethereum ERC20 Token Contract
-Scott Coin (SKT) is a minimal ERC20 token contract that has been deployed to the Ethereum mainnet. It was build to demonstrate the minimal components needed for a ERC20 token typically used in an ICO. The contract supports a fixed token supply and the minimum features to qualify as ERC20 compliant. 
+Scott Coin (SKT) is a minimal ERC20 token contract that has been deployed to the Ethereum mainnet. It was built to demonstrate the minimal implementation needed for a ERC20 token typically used in an ICO. The contract supports a fixed token supply and the minimum features to qualify as ERC20 compliant. 
 
 ### Development
 Install the development environment dependencies. The is not absolutely required, but Truffle is useful for compilation checks and unit tests if the contract code becomes complex. 
